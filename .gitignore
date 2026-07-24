@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Generated files
+data/audio/*.wav
+data/subtitles/*.srt
+data/videos/final_*.mp4
+
+# Pytest
+.pytest_cache/
